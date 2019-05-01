@@ -15,7 +15,7 @@ This screenshot below has been taken from a web design put together by the desig
 
 ![Alt text](src/assets/design.png)
 
-- Each box should have a hover state which increases the scale, changes the background and reveals additional text (the revealed text can be the same on each box).
+- Each box should have a hover state (as shown on the center box in white). Each box can have the same content and hover state.
 - Feel free to create a new component if you wish, otherwise use the app.component files already in the repo.
 - Don't worry about changing the font
 - The colours should match the design, although it doesn't need to be perfect
