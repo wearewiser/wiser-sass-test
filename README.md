@@ -1,27 +1,26 @@
-# WiserSassTest
+# Junior Front End Engineer Task
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
-## Development server
+# About this task
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This task should be completed to be considered for the Junior Front End Engineer position at Wiser. The task will focus purely on writing HTML and SASS, as this will be a significant part of your role should you be successful.
 
-## Code scaffolding
+# Instructions
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Fork this repo, and clone a copy onto your local machine. When you have completed the task, push your code and email us a link to your fork at engineering@wearewiser.com. You should spend no more than 2 hours on this task.
 
-## Build
+# The task
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+This screenshot below has been taken from a web design put together by the design team here at Wiser. The aim of this task is to replicate this design as accurately as possible by writing HTML and SASS.
 
-## Running unit tests
+![Alt text](assets/design.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Each box should have a hover state, which increases the scale, changes the background and reveals additional text. 
+- Feel free to create a new component if you wish, otherwise use the app.component files already in the repo.
+- Build a desktop version only, don't write any code for responsive design
+- Don't worry about changing the font
+- The colours should match the design, although it doesn't need to be perfect
 
-## Running end-to-end tests
+Bonus task:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Animate the transition to and from the hover state for a better user experience.
