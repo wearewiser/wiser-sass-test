@@ -13,7 +13,7 @@ Fork this repo, and clone a copy onto your local machine. When you have complete
 
 This screenshot below has been taken from a web design put together by the design team here at Wiser. The aim of this task is to replicate this design as accurately as possible by writing HTML and SASS.
 
-![Alt text](assets/design.png)
+![Alt text](src/assets/design.png)
 
 - Each box should have a hover state, which increases the scale, changes the background and reveals additional text. 
 - Feel free to create a new component if you wish, otherwise use the app.component files already in the repo.
