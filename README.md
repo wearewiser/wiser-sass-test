@@ -17,10 +17,9 @@ This screenshot below has been taken from a web design put together by the desig
 
 - Each box should have a hover state which increases the scale, changes the background and reveals additional text (the revealed text can be the same on each box).
 - Feel free to create a new component if you wish, otherwise use the app.component files already in the repo.
-- Build a desktop version only, don't worry about responsive design
 - Don't worry about changing the font
 - The colours should match the design, although it doesn't need to be perfect
 
 Bonus task:
 
-- Animate the transition to and from the hover state for a better user experience
+- Animate the transition to and from the hover state for a better user experience.
